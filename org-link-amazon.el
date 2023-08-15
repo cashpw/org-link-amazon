@@ -1,11 +1,11 @@
 ;;; org-link-amazon.el --- Description -*- lexical-binding: t; -*-
 ;;
-;; Copyright (C) 2022 Cash Weaver
+;; Copyright (C) 2023 Cash Weaver
 ;;
 ;; Author: Cash Weaver <cashbweaver@gmail.com>
 ;; Maintainer: Cash Weaver <cashbweaver@gmail.com>
-;; Created: March 13, 2022
-;; Modified: March 13, 2022
+;; Created: August 15, 2023
+;; Modified: August 15, 2023
 ;; Version: 0.0.1
 ;; Homepage: https://github.com/cashweaver/org-link-amazon
 ;; Package-Requires: ((emacs "27.1"))
